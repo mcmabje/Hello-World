@@ -1,4 +1,4 @@
 # Hello-World
-this is my first time using Git
-i am practicing
-one day i will become the best dev
+this is my first time using Git,
+i am practicing so that
+one day i can become the best dev
